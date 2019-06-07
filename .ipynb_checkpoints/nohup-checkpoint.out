@@ -1,0 +1,4 @@
+Unable to init server: Could not connect: Connection refused
+Unable to init server: Could not connect: Connection refused
+
+(jet_preprocessing.py:26564): Gdk-CRITICAL **: 10:21:14.234: gdk_cursor_new_for_display: assertion 'GDK_IS_DISPLAY (display)' failed
